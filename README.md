@@ -1,1 +1,2 @@
-# upi-service
+# rent-go
+Rent vehicles on the go
